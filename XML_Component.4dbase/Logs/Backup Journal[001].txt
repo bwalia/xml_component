@@ -1,0 +1,140 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 17/12/2013 16:15
+Starting 17/12/2013 16:15
+Ending 17/12/2013 16:15
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 14/06/2014 21:08
+Starting 14/06/2014 21:08
+Ending 14/06/2014 21:08
+
+*** Full Backup
+Creating archive : G-DRIVE mobile with Thunderbolt:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	G-DRIVE mobile with Thunderbolt:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	G-DRIVE mobile with Thunderbolt:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	G-DRIVE mobile with Thunderbolt:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 08/07/2015 14:23
+Starting 08/07/2015 14:23
+Ending 08/07/2015 14:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 23/07/2015 18:41
+Starting 23/07/2015 18:41
+Ending 23/07/2015 18:41
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0002].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 26/07/2015 00:00
+Starting 15/09/2015 20:24
+Ending 15/09/2015 20:25
+
+*** Full Backup
+Creating archive : D:\Dropbox\4D Databases\4Dv14_Dev\XML_Component.4dbase\XML_Component[0001].4BK
+Attachment(s): 
+	D:\Dropbox\4D Databases\4Dv14_Dev\XML_Component.4dbase\XML_Component.4DSyncHeader [NOT FOUND]
+	D:\Dropbox\4D Databases\4Dv14_Dev\XML_Component.4dbase\XML_Component.4DSyncData [NOT FOUND]
+	D:\Dropbox\4D Databases\4Dv14_Dev\XML_Component.4dbase\XML_Component.4DIndx [NOT FOUND]
+Scheduled 20/11/2015 16:57
+Starting 20/11/2015 16:57
+Ending 20/11/2015 16:57
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 28/11/2015 22:13
+Starting 28/11/2015 22:13
+Ending 28/11/2015 22:14
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0002].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 29/11/2015 00:00
+Starting 30/12/2015 15:35
+Ending 30/12/2015 15:35
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0003].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 03/01/2016 00:00
+Starting 13/02/2016 17:20
+Ending 13/02/2016 17:20
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0004].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 14/02/2016 00:00
+Starting 14/02/2016 00:10
+Ending 14/02/2016 00:10
+
+*** Full Backup
+Creating archive : balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 16/02/2016 01:17
+Starting 16/02/2016 01:17
+Ending 16/02/2016 01:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 20/02/2016 09:43
+Starting 20/02/2016 09:43
+Ending 20/02/2016 09:43
+
+*** Full Backup
+Creating archive : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 22/03/2016 17:29
+Starting 22/03/2016 17:29
+Ending 22/03/2016 17:29
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:XML_Component.4dbase:XML_Component.4DIndx [NOT FOUND]
+Scheduled 22/04/2016 12:10
+Starting 22/04/2016 12:10
+Ending 22/04/2016 12:10
+
